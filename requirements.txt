@@ -1,0 +1,3 @@
+# Raspberry Pi only
+smbus2
+RPi.GPIO
